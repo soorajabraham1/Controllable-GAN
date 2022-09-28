@@ -1,3 +1,3 @@
 # Controllable-GAN
 
-![](/images/controllable_generation.png)
+![](/controllable_generation.png)
